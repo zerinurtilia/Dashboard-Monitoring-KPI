@@ -11,13 +11,15 @@ Dengan mempertimbangkan semua permasalahan ini, penelitian ini bertujuan untuk m
 
 ## Diagram Data Warehouse
 ![Image](https://github.com/user-attachments/assets/e628e732-3331-45fe-a850-76a2f35911d5)
+
 ## Hasil Dashboard
 Dashboard Monitoring KPI ini digunakan untuk melakukan pemantauan program kerja, task-task, serta proyek-proyek di setiap divisi yang ada pada perusahaan
+
+![Image](https://github.com/user-attachments/assets/9a324079-768b-49e9-ba61-2770c92bd3ad)
+
 ![Image](https://github.com/user-attachments/assets/ee09f4dc-2bee-4a9c-8113-7ebbad3dcaef)
 
 ![Image](https://github.com/user-attachments/assets/15393e2a-fc19-479d-b927-15f062782727)
-
-![Image](https://github.com/user-attachments/assets/3d2bf238-9f03-446b-9090-f7654b9fb2aa)
 
 ![Image](https://github.com/user-attachments/assets/43f47fad-af0f-412e-a318-14a04fff3365)
 
